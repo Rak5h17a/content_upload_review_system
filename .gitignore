@@ -11,3 +11,4 @@ test_scripts/*.csv
 *.csv
 .vscode/
 .idea/
+test_scripts/
